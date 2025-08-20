@@ -3,8 +3,6 @@
 
 Passionate iOS developer with a strong drive for innovation and user-centric app development. Transitioned from a hobbyist to a skilled professional through self-learning and dedicated practice.
 
-You can check my pinned projects to get info about my last projects.
-
 ### Languages and tools ###
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
